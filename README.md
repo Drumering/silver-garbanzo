@@ -9,4 +9,4 @@ Then you can run `pip install -r requirements.txt` and voilá, your dependencies
 
 ---
 
-Have fun with this project. And as Uncle Ben said: `... with great power comes great reponsability`.
+Have fun with this project. And as Uncle Ben said: `"... with great power comes great reponsability"`.
